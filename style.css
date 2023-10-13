@@ -1,0 +1,81 @@
+body{
+  background-image:url(background.jpg);
+  background-size:cover;
+  font-family:"Poppins", sans-serif;
+}
+.container{
+width:700px;
+height:470px;
+padding:50px;
+background-color: rgba(0, 0, 0, 0.5);
+margin: auto;
+border-radius:10px;
+margin-top: 20px;
+margin-left:260px;
+}
+.logo{
+  width:180px;
+  margin:auto;
+}
+
+header{
+text-align: center;
+color: rgba(0, 255, 0,0.8);
+font-weight: lighter;}
+h1{
+  font-size:20px;
+  margin-top:1PX;
+}
+.menu{
+  text-align: center;
+  font-size: 1px;
+  background-color: rgb(0, 255, 0);
+  padding:10px 32px;
+}
+.Primopartecipante{
+  color:white;
+  font-size:15px;
+  display:inline-block;
+}
+.indirizzo1{
+  font-size:12px;
+  font-weight: lighter;
+  color:white;
+}
+#arancione{
+  background-color:orange; height: 20px; width: 300px;
+  opacity: 90%;
+  margin-left: 2px;
+  border-radius: 5px;
+}
+.Secondopartecipante{
+  color:white;
+  font-size:15px;
+  display:inline-block;
+}
+.indirizzo2{
+  font-size:12px;
+  font-weight: lighter;
+  color:white;
+}
+#green{
+  background-color:rgba(0, 255, 50, 0.9); height: 20px; width: 450px;
+  margin-left: 2px;
+  border-radius: 5px;
+}
+.Terzopartecipante{
+  color:white;
+  font-size:15px;
+  display:inline-block;
+}
+.indirizzo3{
+  font-size:12px;
+  font-weight: lighter;
+  color:white;
+}
+
+  #red{
+    background-color:#d93838; height: 20px; width: 100px;
+    margin-left: 2px;
+    border-radius: 5px;
+  }
